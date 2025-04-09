@@ -1,0 +1,9 @@
+# torch torchvision
+# cv2
+# scipy
+# packaging
+# six
+# matplotlib
+# thop
+# pip install pycocotools
+# tensorboard
